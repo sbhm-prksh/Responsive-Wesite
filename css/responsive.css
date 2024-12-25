@@ -5,7 +5,7 @@
   }
 
   body {
-    background-color: red;
+    /* background-color: red; */
   }
 
   .navbar {
@@ -95,19 +95,19 @@
 /* Small Devices */
 @media (min-width: 576px) and (max-width: 768px) {
   body {
-    background-color: orange;
+    /* background-color: orange; */
   }
 }
 
 /* Medium Devices */
 @media (min-width: 769px) and (max-width: 1200px) {
   body {
-    background-color: yellow;
+    /* background-color: yellow; */
   }
 }
 
 @media (min-width: 1200px) {
   body {
-    background-color: green;
+    /* background-color: green; */
   }
 }
